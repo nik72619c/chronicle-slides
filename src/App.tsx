@@ -44,7 +44,7 @@ function App() {
         <Center h="100vh" bg="gray.50">
           <Flex direction="column" align="center" gap={4}>
             <Spinner size="xl" colorPalette="blue" />
-            <Text color="gray.600" fontSize="lg">Welcome to Chronicle slides! Please wait while we set up your session...</Text>
+            <Text color="gray.600" fontSize="lg">Connecting to Liveblocks...</Text>
           </Flex>
         </Center>
       }>
